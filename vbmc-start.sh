@@ -1,3 +1,3 @@
 vbmc start undercloud
-vbmc start overcloud-controller
-vbmc start overcloud-compute
+vbmc start controller-node
+vbmc start compute-node
