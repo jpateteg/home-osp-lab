@@ -1,2 +1,2 @@
-# osp-rocky
-Configurations for my home-lab running OSP14(Rocky)
+# home-osp-lab
+Configurations for my home-lab running OSP14(or any other)
