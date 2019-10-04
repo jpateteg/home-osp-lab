@@ -160,8 +160,8 @@ vbmc add compute-node --port 6232
 
 cat >/root/vbmc-start.sh <<EOF
 vbmc start undercloud
-vbmc start overcloud-controller
-vbmc start overcloud-compute
+vbmc start controller-node
+vbmc start compute-node
 EOF
 
 chmod 755 /root/vbmc-start.sh
