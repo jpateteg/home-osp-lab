@@ -2,7 +2,7 @@
 CLASSROOM_SERVER=192.168.100.236
 IMAGES_DIR=/var/lib/libvirt/images
 OFFICIAL_IMAGE=CentOS-7-x86_64-GenericCloud.qcow2
-PASSWORD_FOR_VMS='jair1986'
+PASSWORD_FOR_VMS='9RPTT2I3RC/hdvGz'
 VIRT_DOMAIN='patenke.com'
 
 ### Creamos las redes que usaremos en el ambiente.
